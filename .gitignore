@@ -1,0 +1,22 @@
+
+# sbt
+.history
+boot/
+lib_managed/
+target/
+
+# IntelliJ
+.idea/
+out/
+*.iml
+*.ipr
+*.iws
+
+# Mac
+.DS_Store
+
+# node
+node_modules/
+
+# bower
+bower_components/

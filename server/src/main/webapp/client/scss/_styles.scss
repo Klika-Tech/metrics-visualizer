@@ -1,0 +1,36 @@
+/* Set Defaults for Body*/
+$brand-color: #7F2E94 !default;
+
+h1  {
+  text-align: center;
+  font-family: 'Helvetica';
+  font-size: 32px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+#memory_chart {
+  display: block;
+  margin: 0 auto;
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}

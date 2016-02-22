@@ -1,0 +1,19 @@
+{
+  "name": "akka-http-reactjs",
+  "description": "Project represents a web application that visualizes OS's metrics: physical memory size and system cpu load.",
+  "main": "index.js",
+  "authors": [],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "bootstrap-sass-official#~3.3.6",
+    "c3": "~0.4.10"
+  }
+}
